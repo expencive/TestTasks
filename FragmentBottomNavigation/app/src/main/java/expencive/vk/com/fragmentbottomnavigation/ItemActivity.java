@@ -12,6 +12,7 @@ import static expencive.vk.com.fragmentbottomnavigation.CatsFragment.EXTRA_NUMBE
 import static expencive.vk.com.fragmentbottomnavigation.CatsFragment.EXTRA_TITLE;
 import static expencive.vk.com.fragmentbottomnavigation.CatsFragment.EXTRA_URL;
 
+
 public class ItemActivity extends AppCompatActivity {
 
     @Override
